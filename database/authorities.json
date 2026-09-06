@@ -1,0 +1,135 @@
+[
+  {
+    "category": "water",
+    "keywords": [
+      "water",
+      "water supply",
+      "pipeline",
+      "tap",
+      "leak",
+      "drinking water",
+      "no water",
+      "water shortage",
+      "water problem"
+    ],
+    "authority": "Vellore Municipal Corporation — Water Supply Division",
+    "reason": "The complaint describes a water supply, pipeline, tap, or water-related civic issue.",
+    "official_channel": "Vellore Municipal Corporation / Local Water Supply Authority",
+    "website": "https://www.tnurbantree.tn.gov.in/vellore/",
+    "steps": [
+      "Confirm the affected location.",
+      "Describe when the water problem started.",
+      "Add a photo or supporting evidence if available.",
+      "Submit the complaint through the official civic channel."
+    ]
+  },
+  {
+    "category": "electricity",
+    "keywords": [
+      "electricity",
+      "electric",
+      "power",
+      "current",
+      "outage",
+      "power cut",
+      "voltage",
+      "transformer",
+      "streetlight",
+      "street light",
+      "electric pole",
+      "no electricity"
+    ],
+    "authority": "TANGEDCO — Vellore Electricity Division",
+    "reason": "The complaint describes an electricity supply, power, transformer, or streetlight issue.",
+    "official_channel": "TANGEDCO / Tamil Nadu Electricity Complaint Channel",
+    "website": "https://www.tangedco.org/",
+    "steps": [
+      "Mention the affected location.",
+      "Describe the electricity problem and when it started.",
+      "Provide supporting information if available.",
+      "Submit the complaint through the official electricity complaint channel."
+    ]
+  },
+  {
+    "category": "roads",
+    "keywords": [
+      "road",
+      "pothole",
+      "potholes",
+      "damaged road",
+      "broken road",
+      "footpath",
+      "pavement",
+      "road damage",
+      "traffic",
+      "street damage"
+    ],
+    "authority": "Vellore Municipal Corporation — Roads / Public Works",
+    "reason": "The complaint describes damage to public road infrastructure such as potholes, roads, footpaths, or pavements.",
+    "official_channel": "Vellore Municipal Corporation / Relevant Public Works Authority",
+    "website": "https://www.tnurbantree.tn.gov.in/vellore/",
+    "steps": [
+      "Provide the exact road or landmark.",
+      "Describe the damage and its approximate size.",
+      "Add a photograph if available.",
+      "Submit the complaint through the official civic channel."
+    ]
+  },
+  {
+    "category": "waste",
+    "keywords": [
+      "garbage",
+      "waste",
+      "trash",
+      "rubbish",
+      "dump",
+      "dumping",
+      "garbage collection",
+      "waste collection",
+      "uncollected garbage",
+      "sanitation",
+      "dirty",
+      "overflowing garbage",
+      "sewage"
+    ],
+    "authority": "Vellore Municipal Corporation — Sanitation Department",
+    "reason": "The complaint describes uncollected waste, garbage dumping, sanitation, or a related civic cleanliness issue.",
+    "official_channel": "Vellore Municipal Corporation / Sanitation Department",
+    "website": "https://www.tnurbantree.tn.gov.in/vellore/",
+    "steps": [
+      "Provide the exact location of the waste.",
+      "Mention how long the waste has remained uncollected.",
+      "Add a photograph if available.",
+      "Submit the complaint through the official civic channel."
+    ]
+  },
+  {
+    "category": "cyber",
+    "keywords": [
+      "cyber",
+      "cyber crime",
+      "cybercrime",
+      "online fraud",
+      "fraud",
+      "scam",
+      "scammed",
+      "phishing",
+      "otp",
+      "online scam",
+      "hacked",
+      "hacking",
+      "account hacked",
+      "digital fraud"
+    ],
+    "authority": "Tamil Nadu Cyber Crime Wing — Vellore",
+    "reason": "The complaint describes a suspected online fraud, cyber offence, phishing attempt, hacking incident, or digital scam.",
+    "official_channel": "National Cyber Crime Reporting Portal / Cyber Crime Police",
+    "website": "https://cybercrime.gov.in/",
+    "steps": [
+      "Preserve relevant messages, transaction details, screenshots, or other evidence.",
+      "Do not delete suspicious messages or transaction records.",
+      "Report the incident through the official cyber crime channel.",
+      "Keep the acknowledgement or complaint reference number."
+    ]
+  }
+]
